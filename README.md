@@ -60,7 +60,7 @@ Designed interactive dashboards to visualize KPIs, business metrics, and perform
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditipaitandy\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy\&layout=compact\&theme=tokyonight)
 
