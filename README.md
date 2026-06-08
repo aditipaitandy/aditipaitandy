@@ -58,14 +58,6 @@ Designed interactive dashboards to visualize KPIs, business metrics, and perform
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aditipaitandy&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=donut&theme=tokyonight)
-
----
-
 ## 🎯 Currently Learning
 
 * ☁️ AWS Analytics Services
