@@ -70,11 +70,15 @@ Performed advanced SQL analysis on IPL datasets to identify the factors behind c
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
-* 📧 Email: YOUR_EMAIL
-* 🌐 Portfolio: YOUR_PORTFOLIO_LINK
+💼 LinkedIn → [www.linkedin.com/in/aditi-paitandy-750629317](http://www.linkedin.com/in/aditi-paitandy-750629317)
+
+📧 Email → [aditipaitandy2003@gmail.com](mailto:aditipaitandy2003@gmail.com)
+
+🐙 GitHub → github.com/aditipaitandy
+
+🚀 Open to collaborations, internships, and opportunities in Data Analytics, Business Intelligence, and Data Science.
 
 ---
 
