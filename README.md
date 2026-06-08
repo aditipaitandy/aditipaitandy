@@ -25,7 +25,6 @@ I enjoy transforming raw data into meaningful insights, building analytical solu
 ### Analytics & Visualization
 
 📊 Power BI
-📈 Tableau
 📉 Microsoft Excel
 📋 Google BigQuery
 📓 Jupyter Notebook
@@ -47,14 +46,6 @@ An AI-powered application that allows users to ask questions from documents usin
 Performed advanced SQL analysis on IPL datasets to identify the factors behind championship-winning teams and player performance trends.
 
 **Tech:** SQL, Google BigQuery, Data Analysis
-
----
-
-### 📊 Business Intelligence Dashboards
-
-Designed interactive dashboards to visualize KPIs, business metrics, and performance insights.
-
-**Tech:** Power BI, Tableau, Excel
 
 ---
 
