@@ -62,7 +62,7 @@ Designed interactive dashboards to visualize KPIs, business metrics, and perform
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aditipaitandy&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=donut&theme=tokyonight)
 
 ---
 
