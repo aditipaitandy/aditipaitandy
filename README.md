@@ -1,24 +1,19 @@
-<!-- 🎨 VISUAL HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aditipaitandy/aditipaitandy/main/assets/header-banner.svg" alt="Header: Data Analyst & Scientist" width="100%">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&color=4da6ff&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+World+of+Data!;MCA+Graduate+%7C+Data+Analyst+%7C+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&color=38BDF8&center=true&vCenter=true&width=755&height=65&lines=Hi+there!+👋+I'm+Aditi+Paitandy;MCA+Graduate+%7C+Data+Analyst+%7C+Data+Scientist;Turning+complex+data+into+actionable+stories!" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- 🤝 ENGAGING OPENING -->
 <p align="center">
-  <em>Passionate about transforming raw data into meaningful insights, building analytical solutions, and exploring the intersection of Data Science, AI, and Business Intelligence.</em>
+  <em>Transforming raw data into meaningful insights, building analytical solutions, and exploring the intersection of Data Science, AI, and Business Intelligence.</em>
 </p>
 
 ---
 
-<!-- 🎯 ABOUT ME: ICON-HEAVY LIST -->
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
 | Icon | Description |
-| :--- | :--- |
+| :---: | :--- |
 | 🎓 | **MCA Graduate** specializing in Data Science. |
 | 📈 | Passionate about **Data Analytics** and **Business Intelligence**. |
 | 🏏 | **Cricket Data Analysis:** Uncovered winning patterns in IPL datasets using SQL & BigQuery. |
@@ -28,8 +23,7 @@
 
 ---
 
-<!-- 🛠️ SKILLS MATRIX (More Visual Grid) -->
-<h2>⚔️ Technical Skills & Toolbox</h2>
+## ⚔️ Technical Skills & Toolbox
 
 <div align="center">
 
@@ -44,28 +38,28 @@
 
 ---
 
-<!-- 📈 DYNAMIC VISUAL STATS (Using Chart Banners) -->
-<h2>📊 My Data Analytics Journey</h2>
+## ⚡ Core Analytical Workflow
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
+| 🔍 Data Extraction | 🧹 Cleaning & EDA | 📊 Interactive BI | 🤖 Machine Learning |
+| :---: | :---: | :---: | :---: |
+| Querying large datasets via **SQL & BigQuery** | Processing raw data using **Python & Pandas** | Building dashboards in **Power BI & Excel** | Developing models & **RAG pipelines** |
+
 </div>
 
 ---
 
-<!-- 🌟 VISUAL FEATURED PROJECTS (Using Thumbnails/Badges) -->
-<h2>🌟 Featured Projects</h2>
+## 🌟 Featured Projects
 
 | Preview | Project Title & Description | Tech Stack | Links |
 | :---: | :--- | :---: | :---: |
-| 📄<br><sup>(RAG Demo)</sup> | **RAG-Based Document Q&A** <br> An AI-powered app that allows users to ask questions from documents using vector search and LLMs. | Python, LangChain, FAISS, LLMs | 🔗 [Live Demo](LINK_HERE) <br> 💻 [Code](LINK_HERE) |
-| 🏏<br><sup>(IPL Stats)</sup> | **IPL Championship Analysis** <br> Performed advanced SQL analysis to identify key factors driving championship-winning teams. | SQL, Google BigQuery, Data Analysis | 📊 [Dashboard](LINK_HERE) <br> 💻 [Code](LINK_HERE) |
+| 📄<br><sup>(RAG Demo)</sup> | **RAG-Based Document Q&A** <br> An AI-powered app that allows users to ask questions from documents using vector search and LLMs. | Python, LangChain, FAISS, LLMs | 🔗 [Live Demo](https://github.com/aditipaitandy) <br> 💻 [Code](https://github.com/aditipaitandy) |
+| 🏏<br><sup>(IPL Stats)</sup> | **IPL Championship Analysis** <br> Performed advanced SQL analysis to identify key factors driving championship-winning teams. | SQL, Google BigQuery, Data Analysis | 📊 [Dashboard](https://github.com/aditipaitandy) <br> 💻 [Code](https://github.com/aditipaitandy) |
 
 ---
 
-<!-- 🧠 WHAT I'M INTERESTED IN (Visual Interest Cloud) -->
-<h2>💡 Data Ecosystem Interests</h2>
+## 💡 Data Ecosystem Interests
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Analytics-blue?style=flat-square" alt="Interest 1" />
@@ -78,23 +72,21 @@
 
 ---
 
-<!-- 🚀 CALL TO ACTION (Professional & Welcoming) -->
-<h2>🤝 Let's Connect</h2>
+## 🤝 Let's Connect
 
 <p align="center">
   🚀 *Open to collaborations, internships, and opportunities in Data Analytics, BI, and Data Science.*
 </p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/aditi-paitandy-750629317" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/aditi-paitandy-750629317" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:aditipaitandy2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="github.com/aditipaitandy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="https://github.com/aditipaitandy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 </div>
 
 ---
 
-<!-- ✨ FUN FACT (The Human Element) -->
-<h3 align="center">✨ Fun Fact</h3>
+## ✨ Fun Fact
 
 > I love finding hidden stories in datasets—whether it's business metrics or customer behavior.
 
