@@ -58,7 +58,7 @@ me = Aditi()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,powerbi,aws,gcp,git,github,nextjs,ts,tailwind&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,aws,gcp,git,github,nextjs,ts,tailwind&theme=dark&perline=6" />
 
 <br><br>
 
