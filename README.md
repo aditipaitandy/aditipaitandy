@@ -187,20 +187,7 @@ me = Aditi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditipaitandy&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aditipaitandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditipaitandy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=ffffff" width="95%" />
 </div>
 
 <br>
