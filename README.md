@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+👋+I'm+Aditi+Paitandy;Data+Analyst+%26+Data+Science+Enthusiast;Turning+data+into+actionable+stories!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&color=3776AB&center=true&vCenter=true&width=650&height=50&lines=Hi+there!+👋+I'm+Aditi+Paitandy;Data+Analyst+%26+Data+Science+Enthusiast;Turning+data+into+actionable+stories!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">📊 Data Analyst | Data Science Enthusiast | MCA Graduate</h3>
@@ -36,11 +36,12 @@
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditi's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditipaitandy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -52,7 +53,7 @@
 > *An AI-powered application that allows users to ask questions from documents using Retrieval-Augmented Generation (RAG), vector search, and LLMs.*
 
 **Tech:** Python, LangChain, FAISS, LLMs  
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/aditipaitandy/YOUR_RAG_REPO_NAME_HERE)
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/aditipaitandy)
 
 ---
 
@@ -60,7 +61,7 @@
 > *Performed advanced SQL analysis on IPL datasets to identify the factors behind championship-winning teams and player performance trends.*
 
 **Tech:** SQL, Google BigQuery, Data Analysis  
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/aditipaitandy/YOUR_IPL_REPO_NAME_HERE)
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/aditipaitandy)
 
 ---
 
