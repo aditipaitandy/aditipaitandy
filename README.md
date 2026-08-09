@@ -1,15 +1,19 @@
-# 👋 Hi, I'm Aditi Paitandy
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+👋+I'm+Aditi+Paitandy;Data+Analyst+%26+Data+Science+Enthusiast;Turning+data+into+actionable+stories!" alt="Typing SVG" />
+</div>
 
-### 📊 Data Analyst | Data Science Enthusiast | MCA Graduate
+<h3 align="center">📊 Data Analyst | Data Science Enthusiast | MCA Graduate</h3>
 
-I enjoy transforming raw data into meaningful insights, building analytical solutions, and exploring the intersection of Data Science, AI, and Business Intelligence.
+<p align="center">
+  I enjoy transforming raw data into meaningful insights, building analytical solutions, and exploring the intersection of Data Science, AI, and Business Intelligence.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 MCA Graduate specializing in Data Science
-* 📈 Passionate about Data Analytics and Business Intelligence
+* 🎓 **MCA Graduate** specializing in Data Science
+* 📈 Passionate about **Data Analytics** and **Business Intelligence**
 * 🏏 Analyzed IPL datasets using SQL and Google BigQuery to uncover winning patterns
 * 🤖 Built a RAG-Based Document Q&A system using modern AI technologies
 * ☁️ Currently learning AWS for Data Analytics
@@ -20,32 +24,43 @@ I enjoy transforming raw data into meaningful insights, building analytical solu
 
 ## ⚔️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,aws,gcp,git,github,vscode)](https://skillicons.dev)
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages & Querying** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |
+| **Analytics & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) |
+| **AI & Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
-### Analytics & Visualization
+---
 
-📊 Power BI
-📉 Microsoft Excel
-📋 Google BigQuery
-📓 Jupyter Notebook
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditipaitandy&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 📄 RAG-Based Document Q&A
+> *An AI-powered application that allows users to ask questions from documents using Retrieval-Augmented Generation (RAG), vector search, and LLMs.*
 
-An AI-powered application that allows users to ask questions from documents using Retrieval-Augmented Generation (RAG), vector search, and LLMs.
-
-**Tech:** Python, LangChain, FAISS, LLMs
+**Tech:** Python, LangChain, FAISS, LLMs  
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/aditipaitandy/YOUR_RAG_REPO_NAME_HERE)
 
 ---
 
 ### 🏏 IPL Championship Analysis
+> *Performed advanced SQL analysis on IPL datasets to identify the factors behind championship-winning teams and player performance trends.*
 
-Performed advanced SQL analysis on IPL datasets to identify the factors behind championship-winning teams and player performance trends.
-
-**Tech:** SQL, Google BigQuery, Data Analysis
+**Tech:** SQL, Google BigQuery, Data Analysis  
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/aditipaitandy/YOUR_IPL_REPO_NAME_HERE)
 
 ---
 
@@ -61,31 +76,25 @@ Performed advanced SQL analysis on IPL datasets to identify the factors behind c
 
 ## 💡 What I'm Interested In
 
-* Data Analytics
-* Business Intelligence
-* Data Science
-* Machine Learning
-* Cloud Analytics
-* AI-Powered Applications
+* Data Analytics | Business Intelligence | Data Science | Machine Learning | Cloud Analytics | AI-Powered Applications
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn → [www.linkedin.com/in/aditi-paitandy-750629317](http://www.linkedin.com/in/aditi-paitandy-750629317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-paitandy-750629317)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditipaitandy2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditipaitandy)
 
-📧 Email → [aditipaitandy2003@gmail.com](mailto:aditipaitandy2003@gmail.com)
-
-🐙 GitHub → github.com/aditipaitandy
-
-🚀 Open to collaborations, internships, and opportunities in Data Analytics, Business Intelligence, and Data Science.
+<br>
+🚀 *Open to collaborations, internships, and opportunities in Data Analytics, Business Intelligence, and Data Science.*
 
 ---
 
 ## ✨ Fun Fact
 
-I love finding hidden stories in datasets—whether it's business metrics, customer behavior.
+I love finding hidden stories in datasets—whether it's business metrics or customer behavior.
 
 > "Data becomes valuable only when it tells a story."
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
