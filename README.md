@@ -33,16 +33,14 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## ⚙️ Analytical Workflow & Expertise
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=aditipaitandy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditi's GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipaitandy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditipaitandy&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+| 🔍 **1. Extraction & Querying** | 🧹 **2. Transformation & Analysis** | 📊 **3. Visualization & BI** | 🤖 **4. AI & Modeling** |
+| :---: | :---: | :---: | :---: |
+| Extracting structured & unstructured data using **SQL**, **BigQuery**, and **Python**. | Cleaning, exploratory data analysis (EDA), and pattern recognition. | Building interactive dashboards and reporting via **Power BI** & **Excel**. | Implementing **Machine Learning** models and **RAG** pipelines. |
+
 </div>
 
 ---
