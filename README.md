@@ -5,6 +5,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Aditi%20Paitandy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Gen%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
+<img src="https://github.com/aditipaitandy.png" width="120" style="border-radius:50%;" alt="Aditi Paitandy avatar" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Turning+Raw+Data+Into+Decisions;Building+RAG+%26+LLM-Powered+Applications;SQL+%2B+Python+%2B+BigQuery+%2B+Power+BI;Always+Shipping+Something+New" alt="Typing SVG" />
 
 <br>
@@ -26,6 +30,8 @@
 <!-- ========================================================= -->
 <!-- 🌟 ABOUT ME -->
 <!-- ========================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8B5CF6&height=3&width=100%25" width="100%"/>
+
 ## 🚀 About Me
 
 ```python
@@ -55,6 +61,10 @@ me = Aditi()
 ## ⚔️ Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,powerbi,aws,gcp,git,github,nextjs,ts,tailwind&theme=dark&perline=6" />
+
+<br><br>
 
 **Languages & Querying**
 <br>
@@ -108,6 +118,8 @@ me = Aditi()
 <!-- ========================================================= -->
 <!-- 🌟 FEATURED PROJECTS -->
 <!-- ========================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3&width=100%25" width="100%"/>
+
 ## 🌟 Featured Projects
 
 <table>
@@ -190,6 +202,10 @@ me = Aditi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditipaitandy&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8" />
 </div>
 
+<div align="center">
+<img src="https://ghchart.rshah.org/38BDF8/aditipaitandy" alt="Aditi's contribution calendar" width="90%" />
+</div>
+
 <br>
 
 <!-- ========================================================= -->
@@ -220,6 +236,8 @@ me = Aditi()
 <!-- ========================================================= -->
 <!-- 🤝 CONNECT -->
 <!-- ========================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:34D399&height=3&width=100%25" width="100%"/>
+
 <div align="center">
 
 ## 🤝 Let's Connect
