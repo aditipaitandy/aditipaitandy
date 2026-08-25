@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Aditi%20Paitandy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Gen%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Aditi%20Paitandy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Gen%20AI&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Turning+Raw+Data+Into+Decisions;Building+RAG+%26+LLM-Powered+Applications;SQL+%2B+Python+%2B+BigQuery+%2B+Power+BI;Always+Shipping+Something+New" alt="Typing SVG" />
 
@@ -33,7 +33,7 @@
 ```python
 class Aditi:
     def __init__(self):
-        self.role = "Data Analyst & Full Stack Developer"
+        self.role = "Data Analyst & Gen AI Enthusiast"
         self.education = "MCA (Data Science Specialization)"
         self.focus = ["Data Analytics", "Business Intelligence", "Generative AI"]
         self.currently_exploring = ["RAG Pipelines", "AWS for Analytics", "BigQuery Optimization"]
@@ -46,7 +46,7 @@ me = Aditi()
 
 - 🎓 MCA graduate specializing in Data Science, entering the analytics & Gen AI space with a portfolio of shipped, end-to-end projects
 - 🧠 I turn messy datasets into dashboards, pipelines, and RAG-powered applications that answer real questions
-- 🛠️ Comfortable across the full stack — from SQL/BigQuery data modeling to Power BI storytelling to LangChain-based AI apps
+- 🛠️ Skilled in SQL, Python, Power BI, BigQuery, and LangChain-based AI applications
 - 📫 Reach me at **aditipaitandy2003@gmail.com**
 
 <br>
@@ -83,14 +83,6 @@ me = Aditi()
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-**Full Stack & Cloud**
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -108,84 +100,6 @@ me = Aditi()
 | SQL, BigQuery, Python | Feature engineering, window functions, star schemas | Power BI, DAX, Looker Studio | RAG pipelines, LangChain, FAISS |
 
 </div>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- 🌟 FEATURED PROJECTS -->
-<!-- ========================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3&width=100%25" width="100%"/>
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="32%" align="center">
-<img src="https://img.shields.io/badge/AI_%7C_LLM-38BDF8?style=for-the-badge&logo=openai&logoColor=white" /><br><br><code>RAG Pipeline</code>
-</td>
-<td>
-<h3>📄 RAG-Based Intelligent Document Q&A System</h3>
-<p>An AI application that answers questions from documents using Retrieval-Augmented Generation, vector search, and LLMs.</p>
-<p><strong>Tech:</strong> Python · LangChain · FAISS · Sentence Transformers</p>
-<a href="https://github.com/aditipaitandy"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="32%" align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br><br><code>Cybersecurity Analytics</code>
-</td>
-<td>
-<h3>🕵️ Digital Detective: Cyber Crime Analysis System</h3>
-<p>End-to-end project — synthetic data generation, MySQL star-schema database, 55 tiered SQL queries, Power BI DAX modeling, and an interactive Chart.js dashboard frontend.</p>
-<p><strong>Tech:</strong> MySQL · SQL · Power BI · HTML/CSS/JS · Chart.js</p>
-<a href="https://github.com/aditipaitandy"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="32%" align="center">
-<img src="https://img.shields.io/badge/Finance_%7C_Risk-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" /><br><br><code>Risk Analytics</code>
-</td>
-<td>
-<h3>💰 Loan Portfolio Risk Analytics</h3>
-<p>Feature engineering and window functions (NTILE, windowed SUM) on a loans dataset for risk segmentation, visualized in a Looker Studio dashboard — framed for banking/finance hiring contexts.</p>
-<p><strong>Tech:</strong> Google BigQuery · SQL · Looker Studio</p>
-<a href="https://github.com/aditipaitandy"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="32%" align="center">
-<img src="https://img.shields.io/badge/Sports_Analytics-EA580C?style=for-the-badge&logo=powerbi&logoColor=white" /><br><br><code>Power BI Storytelling</code>
-</td>
-<td>
-<h3>🏏 Virat Kohli Career Analytics (2008–2026)</h3>
-<p>A Power BI dashboard tracing an international cricket career — Python/Pandas extraction & cleaning, SQLite storage, DAX-driven dynamic measures, plus AI-generated insights.</p>
-<p><strong>Tech:</strong> Python · Pandas · SQLite · Power BI · DAX</p>
-<a href="https://github.com/aditipaitandy/virat-kohli-career-analytics-powerbi"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="32%" align="center">
-<img src="https://img.shields.io/badge/SQL_%7C_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br><br><code>Sports Analytics</code>
-</td>
-<td>
-<h3>🏆 IPL Championship SQL Analysis</h3>
-<p>Advanced SQL analysis on large-scale IPL datasets to uncover the factors driving championship-winning teams and player performance trends.</p>
-<p><strong>Tech:</strong> SQL · Google BigQuery</p>
-<a href="https://github.com/aditipaitandy"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="32%" align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br><br><code>Portfolio Site</code>
-</td>
-<td>
-<h3>💻 Personal Portfolio Website</h3>
-<p>A Next.js 16 portfolio built with TypeScript, Tailwind CSS, and Framer Motion, showcasing all analytics and Gen AI projects in one place.</p>
-<p><strong>Tech:</strong> Next.js · TypeScript · Tailwind CSS · Framer Motion</p>
-<a href="https://github.com/aditipaitandy"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-</table>
 
 <br>
 
